@@ -78,7 +78,7 @@ src/
 ### ⏰ Cron Schedule Used
 
 ```ts
-@Cron('* * * * *') // Runs every day at 3:00 AM
+@Cron('* * * * *') // Runs every minute
 ```
 
 ---
