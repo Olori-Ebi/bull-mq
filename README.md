@@ -1,5 +1,3 @@
----
-
 ## 🐂 BullMQ Batch Processing with NestJS
 
 This project demonstrates a basic **BullMQ** batch processing implementation using **NestJS**. It supports:
